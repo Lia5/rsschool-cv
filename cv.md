@@ -40,3 +40,17 @@ telegram - @Liastochka
   transform: translate(-50%, -50%);
 }
 ```
+
+## Experience:
+* freelance as a markup;
+* website development on wordpress
+* teamwork;
+* markup of landing pages and quizzes from 0
+
+## Education
+* higher education
+* master's degree
+* online courses, youtube
+
+## English
+Pre-Intermediate
