@@ -55,3 +55,23 @@ function numberToString(num) {
   transform: translate(-50%, -50%);
 }
 ```
+
+## Work Experience
+
+* freelance as a markup;
+* website development on wordpress
+* teamwork;
+* markup of landing pages and quizzes from 0
+
+* Project: [https://lia5.github.io/2022-10-price/dist/index.html](https://lia5.github.io/2022-10-price/dist/index.html)
+* Source code: [https://github.com/Lia5/2022-10-price?tab=readme-ov-file](https://github.com/Lia5/2022-10-price?tab=readme-ov-file)
+
+## Education
+
+* higher education
+* master's degree
+* online courses, youtube
+
+## English Language
+
+Intermediate
