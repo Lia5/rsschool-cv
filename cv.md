@@ -2,6 +2,8 @@
 
 Helen Portna
 
+![Profile image](https://avatars.githubusercontent.com/u/24303634)
+
 ## Contact Information
 
 telegram - @Liastochka
