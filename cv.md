@@ -1,6 +1,4 @@
-# Full Name
-
-Helen Portna
+# Helen Portna
 
 ![Profile image](https://avatars.githubusercontent.com/u/24303634)
 
